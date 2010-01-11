@@ -1,0 +1,2 @@
+page.includeJSFooter.comments_jquery_pluginCookies = EXT:comments_jquery/res/jquery.cookie.js
+page.includeJSFooter.comments_jquery = EXT:comments_jquery/res/jquery.tx_comments_jquery.js
